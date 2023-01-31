@@ -1,2 +1,2 @@
 1. HTML/Javascript
-   Lateron I'll use Nextjs/ReactJs
+2. Lateron I'll use Nextjs/ReactJs
